@@ -6,7 +6,7 @@ I'm an AI Engineer & Researcher passionate about R&D of scalable AI solutions, w
 
 ## 🚀 Current Focus
 - **LLM Optimization:** Fine-tuning and deploying production-ready LLMs on NVIDIA GPUs (e.g., with Triton, TGI, vLLM, SGLang)
-- **AI for Sustainability:** Developing ML models for energy forecasting, solar panel defect detection, and predictive maintenance
+- **AI for Sustainability:** Developing ML models for energy forecasting, solar panel and battery defect detection, and lithium-ion battery predictive maintenance
 - **Scalable Inference:** Building high-performance serving systems (dynamo, SGLang) for low-latency AI applications
 
 ## 🔧 Technical Skills
