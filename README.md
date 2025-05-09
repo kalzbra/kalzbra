@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My GitHub Profile!
 
-I'm an AI Engineer & Researcher passionate about R&D of scalable AI solutions, with a focus on LLMs, computer vision and timeseries analysis.
+I'm an AI Engineer & Researcher passionate about R&D of scalable AI solutions, with a focus on LLMs, computer vision and timeseries analysis for power systems.
 
 ## 🚀 Current Focus
 - **LLM Optimization:** Fine-tuning and deploying production-ready LLMs on NVIDIA GPUs (e.g., with Triton, TGI, vLLM, SGLang)
@@ -23,6 +23,6 @@ I'm an AI Engineer & Researcher passionate about R&D of scalable AI solutions, w
 - Enjoy cracking hard AI optimization problems such as increasing throughput and reducing latency.  
 
 ## 📫 Let's Collaborate!
-- LinkedIn: [Abraham Kaligambe PhD](https://jp.linkedin.com/in/abraham-kaligambe)
-- Scholar: [Abraham Kaligambe](https://scholar.google.com/citations?user=4GrMDsQAAAAJ&hl=en)
+- [LinkedIn](https://jp.linkedin.com/in/abraham-kaligambe)
+- [Scholar](https://scholar.google.com/citations?user=4GrMDsQAAAAJ&hl=en)
 - Email: kalzbra@gmail.com
